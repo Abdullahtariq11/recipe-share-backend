@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Gb/+tMvZ7O4ebf6p6zs335jJtOsUH2Gsw9ZgU1DhUXo=",
+  "Source": "recipe_sharing_backend",
+  "BasePath": "_content/recipe_sharing_backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
